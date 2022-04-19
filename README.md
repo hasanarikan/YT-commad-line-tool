@@ -1,6 +1,6 @@
 # YT COMMAND LINE TOOLS
 
-<h1 align="center" >This is a collection of tools for the YouTube command line. It has a lot of features, but it is not meant to be a complete tool.<h1>
+<h3 align="center" >This is a collection of tools for the YouTube command line. It has a lot of features, but it is not meant to be a complete tool.<h1>
 
 ## Features
 
